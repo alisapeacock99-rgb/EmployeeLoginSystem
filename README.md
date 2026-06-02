@@ -1,6 +1,3 @@
-# EmployeeLoginSystem
-Based on your project, here is a professional GitHub README description that you can use directly:
-
 # Employee Login & Registration System
 
 ## Overview
@@ -199,5 +196,5 @@ Update the `db.properties` file with your PostgreSQL credentials.
 ---
 
 ## Author
-
+-> Alisa Peacock 
 Developed as a Java Web Application project to demonstrate authentication, session management, JDBC database connectivity, and MVC-based web development using JSP, Servlets, and PostgreSQL.
